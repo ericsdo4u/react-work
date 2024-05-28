@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+}
+
+.container img{
+    width: 50%;
+}
+
+.signup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 300px;
+    border-radius: 3px;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    width: 5%;
+    border-radius: 3px;
+}
+.imgContainer{
+    display: flex;
+}
+.image{
+    width: 300px;
+    margin-left: 400px;
+
+}
+.inputSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    width: 100px;
+    border-radius: 3px;
+}

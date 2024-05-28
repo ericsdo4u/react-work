@@ -1,0 +1,10 @@
+.btn{
+    background: #55229e;
+    width: 100%;
+    padding: 20px 20px;
+    color: white;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+    font-family: Consolas;
+}
